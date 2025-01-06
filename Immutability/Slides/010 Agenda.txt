@@ -1,9 +1,0 @@
-Code at https://github.com/jskeet/DemoCode/Immutability
-
-- What is immutability?
-- Why do we like immutability?
-- C# evolution in immutability
-- Interlude: memory models
-- Examples with a common data model
-- Opposing forces and anti-patterns
-- The future
